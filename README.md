@@ -1,3 +1,7 @@
+### FORK
+
+Forked from [Alpine's aports-turbo](https://github.com/alpinelinux/aports-turbo) to update assets for the version hosted on postmarketos.org
+
 # aports-turbo
 
 Alpine Linux package database written in Lua.
