@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alpine Linux packages</title>
+    <title>postmarketOS packages</title>
     <link rel="stylesheet" href="/assets/pure-min.css">
     <link rel="stylesheet" href="/assets/grids-responsive-min.css">
     <link rel="stylesheet" href="/assets/hint.min.css">
@@ -15,7 +15,7 @@
         <header class="pure-g" id="header">
             <div class="pure-u-1 pure-u-lg-4-24">
                 <div class="logo">
-                    <a href="/"><img src="/assets/alpinelinux-logo.svg" class="pure-img" alt="" /></a>
+                    <a href="/"><img src="/assets/postmarketos-logo.svg" class="pure-img" alt="" /></a>
                 </div>
             </div>
             <input type="checkbox" id="menu-toggle-cb">
@@ -34,10 +34,9 @@
                 </nav>
                 <nav class="pure-menu pure-menu-horizontal menu-external">
                     <ul class="pure-menu-list">
-                        <li class="pure-menu-item"><a href="https://wiki.alpinelinux.org" class="pure-menu-link">wiki</a></li>
-                        <li class="pure-menu-item"><a href="https://git.alpinelinux.org" class="pure-menu-link">git</a></li>
-                        <li class="pure-menu-item"><a href="https://bugs.alpinelinux.org/projects/alpine/issues" class="pure-menu-link">bugs</a></li>
-                        <li class="pure-menu-item"><a href="https://mirrors.alpinelinux.org" class="pure-menu-link">mirrors</a></li>
+                        <li class="pure-menu-item"><a href="https://wiki.postmarketos.org" class="pure-menu-link">wiki</a></li>
+                        <li class="pure-menu-item"><a href="https://gitlab.com/postmarketOS/pmaports" class="pure-menu-link">git</a></li>
+                        <li class="pure-menu-item"><a href="https://postmarketos.brixit.nl" class="pure-menu-link">mirrors</a></li>
                     </ul>
                 </nav>
             </div>
